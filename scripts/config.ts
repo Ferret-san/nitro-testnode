@@ -222,7 +222,7 @@ function writeConfigs(argv: any) {
                 "rpc": "http://host.docker.internal:26658",
                 "tendermint-rpc": "http://rpc-mocha.pops.one:26657",
                 "namespace-id": "000008e5f679bf7116cb",
-                "auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJwdWJsaWMiLCJyZWFkIiwid3JpdGUiLCJhZG1pbiJdfQ.K9bFh3x4MJTa7VjFnzHF76BsuTVx6dGip0nHr5h9Y_M",
+                "auth-token": "",
                 "is-poster": true,
                 "gas-price": 0.2,
                 "event-channel-size": 100,
